@@ -49,7 +49,8 @@ void setup() {
 
   //尝试2
   //https://m801.music.126.net/20241129141718/b4a366ca5843d8d8afe006284e318074/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/23375432727/809b/5641/7e43/c969dea4f0a4d51acf8c399d4b22111e.mp3
-  sprintf(httpPath, "https://m801.music.126.net/20241129141718/b4a366ca5843d8d8afe006284e318074/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/23375432727/809b/5641/7e43/c969dea4f0a4d51acf8c399d4b22111e.mp3");
+  //https://96.f.1ting.com/local_to_cube_202004121813/96kmp3/2021/11/27/27c_zym/01.mp3
+  sprintf(httpPath, "https://96.f.1ting.com/local_to_cube_202004121813/96kmp3/2021/11/27/27c_zym/01.mp3");
   
   Serial.println(httpPath);
 
